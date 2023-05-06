@@ -1,5 +1,5 @@
 Install & Setup
-To setup and install Attendance Management System project, follow the below steps:
+To setup and install single-page-app project, follow the below steps:
 
 Clone this project by the command:
 Then switch to the project folder by the bellow query:
